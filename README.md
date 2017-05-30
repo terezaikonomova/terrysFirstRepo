@@ -23,4 +23,7 @@ changes gitBash
 changes to create conflict with gitBash
 changes gitBash
 
+
+making changes again new Branch gitBash
+
 conflict using gitBash:)))))
