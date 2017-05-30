@@ -18,3 +18,5 @@ Making Brunch :P
 making changes brunchh
 
 changes gitBash
+
+conflict using gitBash:)))))
