@@ -5,3 +5,6 @@ Promqna 1
 Promqna 2
 
 promqna s gitBash
+
+shalalalala
+promeni prez browser-a
