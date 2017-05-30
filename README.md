@@ -6,4 +6,10 @@ Promqna 2
 
 promqna s gitBash
 
+shalalalala
+promeni prez browser-a
+promqna s gitBash
+
 tarararaam syzdavam conflictttt
+
+conflict-a razreshen :) 
