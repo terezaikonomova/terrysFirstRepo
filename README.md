@@ -18,4 +18,9 @@ Making Brunch :P
 making changes brunchh
 
 changes gitBash
+changes gitBash
+changes gitBash
 changes to create conflict with gitBash
+changes gitBash
+
+conflict using gitBash:)))))
